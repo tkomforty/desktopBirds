@@ -1,1 +1,1 @@
-<video src="https://github.com/tkomforty/desktopBirds/blob/main/desktopBirds.mp4"  />
+<video src="main/desktopBirds.mp4"  />
