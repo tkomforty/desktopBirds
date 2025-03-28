@@ -1,0 +1,16 @@
+{
+  "name": "scared-oil-soak-xqd7w",
+  "productName": "scared-oil-soak-xqd7w",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "15033",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "35.0.0"
+  }
+}
