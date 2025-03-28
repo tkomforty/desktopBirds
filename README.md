@@ -1,1 +1,1 @@
-<video src="main/desktopBirds.mp4"  />
+<video src="/main/desktopBirds.mp4"/>
