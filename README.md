@@ -1,1 +1,4 @@
-![Desktop Birds Demo](https://user-images.githubusercontent.com/tkomforty/desktopBirds/desktopBirds.mp4?raw=true)
+<figure class="video_container">
+  <iframe src="desktopBirds.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
