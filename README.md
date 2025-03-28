@@ -1,1 +1,1 @@
-![Desktop Birds Demo](https://github.com/tkomforty/desktopBirds/raw/main/desktopBirds.mp4)
+![Desktop Birds Demo](https://user-images.githubusercontent.com/tkomforty/desktopBirds/assets/desktopBirds.mp4?raw=true)
