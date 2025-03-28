@@ -1,1 +1,1 @@
-![Alternative Text](desktopBirds.mp4)
+![Desktop Birds](/desktopBirds.mp4)
